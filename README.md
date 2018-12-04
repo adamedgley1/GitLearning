@@ -1,4 +1,6 @@
 # GitLearning
 
 This repository is used to teach others how to use Git
-####DJ here
+
+DJ Here again ;/
+Hey Adam your public stuff is VERY COOL
